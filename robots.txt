@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kubaki.cc/sitemap.xml
